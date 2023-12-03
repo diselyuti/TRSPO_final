@@ -1,0 +1,7 @@
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\obj\Debug\TRSPO_final.csproj.AssemblyReference.cache
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\obj\Debug\TRSPO_final.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\bin\Debug\TRSPO_final.exe.config
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\bin\Debug\TRSPO_final.exe
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\bin\Debug\TRSPO_final.pdb
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\obj\Debug\TRSPO_final.exe
+C:\Users\dimas\source\repos\TRSPO_final\TRSPO_final\obj\Debug\TRSPO_final.pdb
