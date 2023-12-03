@@ -12,7 +12,7 @@ namespace TRSPO_final
     {
         private const int Port = 12345;
         private const string ServerAddress = "127.0.0.1";
-        private const int MinMatrixSize = 10;
+        private const int MinMatrixSize = 1000;
 
         public void Run()
         {
